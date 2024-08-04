@@ -1,0 +1,19 @@
+{
+  "name": "youtube-test",
+  "version": "1.0.0",
+  "description": "youtube backend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Ramanath",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.3"
+  }
+}
